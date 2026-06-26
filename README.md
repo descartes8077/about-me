@@ -92,7 +92,6 @@ Last updated: 2026-06-26
 
 * 华为致谢归属来自华为消费者业务安全致谢页面。
 * 华为漏洞描述、影响、评级和受影响版本来自华为消费者业务安全公告。
-* CVE-2025-68966 是特殊情况：华为 2026 年 1 月公告列出了该 CVE 编号，但该行没有完整列出漏洞描述、影响、评级和受影响版本。
 * CVE-2026-34864 同时出现在华为手机/平板安全公告和智能手表安全公告中。
 * CVE-2026-34865 存在明显评级差异：华为智能手表安全公告中的厂商评级为 Medium，而 NVD CVSS v3.1 为 9.1 CRITICAL，CNA CVSS v4.0 为 10.0 CRITICAL。
 * Apple Additional Recognition 未给出对应 CVE 编号。
@@ -205,7 +204,6 @@ This section records CVSS information shown in public vulnerability databases. C
 
 * Huawei acknowledgement attribution comes from the Huawei Consumer security acknowledgement page.
 * Huawei vulnerability descriptions, impacts, severities, and affected versions come from Huawei Consumer security bulletins.
-* CVE-2025-68966 is a special case: Huawei's January 2026 bulletin lists the CVE ID, but the row does not include the full vulnerability description, impact, severity, or affected version fields.
 * CVE-2026-34864 appears in both Huawei Phones/Tablets and Smart Watches security bulletins.
 * CVE-2026-34865 has a clear severity discrepancy: Huawei's Smart Watches bulletin lists the vendor severity as Medium, while NVD CVSS v3.1 is 9.1 CRITICAL and CNA CVSS v4.0 is 10.0 CRITICAL.
 * Apple Additional Recognition does not provide a CVE mapping.
